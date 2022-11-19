@@ -8,6 +8,15 @@
 
 }
 
+.about {
+  display: flex;
+  gap: 100px;
+}
+
+.about img {
+  max-width: 50%;
+}
+
 @media (prefers-color-scheme: dark) {
   * {
     --textcolor: #dadada;
