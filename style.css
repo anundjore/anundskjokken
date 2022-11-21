@@ -14,7 +14,10 @@
 }
 
 .about img {
-  max-width: 50%;
+  max-width: 10%
+  
+ 
+
 }
 
 @media (prefers-color-scheme: dark) {
