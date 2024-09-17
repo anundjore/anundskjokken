@@ -1,2 +1,0 @@
-# anundskjokken
-Oppskrifter
